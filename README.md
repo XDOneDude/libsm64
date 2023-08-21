@@ -1,4 +1,4 @@
-# libsm64 - Super Mario 64 as a library
+# libsm64 - Super Mario 64 as a librar
 
 The purpose of this project is to provide a clean interface to the movement and rendering
 code which was reversed from SM64 by the [SM64 decompilation project](https://github.com/n64decomp/sm64),
